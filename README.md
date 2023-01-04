@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href='https://www.linkedin.com/in/BernardoManfriani/'><img alt="linkedin" src="https://www.linkedin.com/in/bernardo-manfriani-563819151/" height='32px'/></a>
+<a href='https://www.linkedin.com/in/BernardoManfriani/'>
 <!--
 **BernardoManfriani/BernardoManfriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
