@@ -8,3 +8,5 @@ I am a MSc student of Artificial Intelligence at the Univeristy of Florence with
 ### 📊 Github Stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BernardoManfriani&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoManfriani)](https://github.com/anuraghazra/github-readme-stats)
+
