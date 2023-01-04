@@ -7,5 +7,4 @@ I am a MSc student of Artificial Intelligence at the Univeristy of Florence with
 
 ### 📊 Github Stats
   
-![Stats Overview](https://raw.githubusercontent.com/BernardoManfriani/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/BernardoManfriani/github-stats-transparent/output/generated/languages.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BernardoManfrianitheme=dark&background=000000)](https://git.io/streak-stats)
