@@ -2,8 +2,8 @@
 
 ### About Me
 - 🎓 MSc Student in Artificial Intelligence 
-- 💡 Co-founder of   [Xplorer]([https://link-url-here.org](https://xplorer-platform.com/))
-- 🎙️ Co-founder of  [La Centrale Podcast]([[https://link-url-here.org](https://xplorer-platform.com/)](https://www.youtube.com/@lacentralepodcast)) 
+- 💡 Co-founder of   [Xplorer]((https://xplorer-platform.com/))
+- 🎙️ Co-founder of  [La Centrale Podcast]((https://www.youtube.com/@lacentralepodcast)) 
 - 🗻 Trail Runner and Climber
 
 ### Keep in touch
