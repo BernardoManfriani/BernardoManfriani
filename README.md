@@ -8,5 +8,3 @@ I am a MSc student of Artificial Intelligence at the Univeristy of Florence with
 ### 📊 Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoManfriani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoManfriani&theme=tokyonight)
